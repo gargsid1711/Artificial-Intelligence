@@ -3,7 +3,7 @@
 ## DO NOT COPY. Only for reference
 
 ### MP1: Maze Search
-#### Algorithms Implemented: Breadth-first search, Depth-first search, A-star, A-start for multiple objectives
+#### Algorithms Implemented: Breadth-first search, Depth-first search, A-star, A-star for multiple objectives
 
 ### MP2: Robotic Arm Motion Planning
 
