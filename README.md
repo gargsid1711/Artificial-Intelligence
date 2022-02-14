@@ -18,4 +18,4 @@
 
 ### MP7: Reinforcement Learning on Snake
 
-## I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
+### I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
